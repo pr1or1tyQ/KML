@@ -1,0 +1,78 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>Denver</name>
+<description>Denver - Population:     3157520</description>
+<Point><coordinates>-104.98465,39.73912222222222</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Colorado Springs</name>
+<description>Colorado Springs - Population:     645613</description>
+<Point><coordinates>-104.821363888889,38.83388333333333</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Pueblo</name>
+<description>Pueblo - Population:     106595</description>
+<Point><coordinates>-104.609141666667,38.254447222222225</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Vail</name>
+<description>Vail - Population:     4589</description>
+<Point><coordinates>-106.3741972222222,39.64026388888889</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Aspen</name>
+<description>Aspen - Population:     6658</description>
+<Point><coordinates>-106.817538888889,39.19109722222222</coordinates></Point>
+</Placemark>
+<Placemark>
+<LineString>
+<altitudeMode>clampToGround</altitudeMode>
+<tessellate>1</tessellate>
+<coordinates>
+-104.98465,39.73912222222222,0
+-104.821363888889,38.83388333333333,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<altitudeMode>clampToGround</altitudeMode>
+<tessellate>1</tessellate>
+<coordinates>
+-104.98465,39.73912222222222,0
+-106.374197222222,39.64026388888889,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<altitudeMode>clampToGround</altitudeMode>
+<tessellate>1</tessellate>
+<coordinates>
+-104.821363888889,38.83388333333333,0
+-106.374197222222,39.64026388888889,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<altitudeMode>clampToGround</altitudeMode>
+<tessellate>1</tessellate>
+<coordinates>
+-104.821363888889,38.83388333333333,0
+-104.609141666667,38.254447222222225,0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<altitudeMode>clampToGround</altitudeMode>
+<tessellate>1</tessellate>
+<coordinates>
+-106.374197222222,39.64026388888889,0
+-106.817538888889,39.19109722222222,0
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

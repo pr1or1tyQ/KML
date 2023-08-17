@@ -1,0 +1,1007 @@
+2021/11/16 20:43:37, Log: Open intro window.
+2021/11/16 20:43:39, Log: Read City Button pressed
+2021/11/16 20:43:42, Log: Opened Read_City file browser
+2021/11/16 20:43:42, Log: Selected File Path: C:\Users\Finn\Documents\colorado_cities.xlsx
+2021/11/16 20:43:42, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 20:43:43, Log: Excel File Parsing Complete
+2021/11/16 20:43:43, Log: Read Network Button was enabled
+2021/11/16 20:43:43, Log: Read Network Button pressed
+2021/11/16 20:43:45, Log: Opened Read_Network file browser
+2021/11/16 20:43:45, Log: The connections have been added to the city: Denver
+2021/11/16 20:43:45, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 20:43:45, Log: The connections have been added to the city: Pueblo
+2021/11/16 20:43:45, Log: The connections have been added to the city: Aspen
+2021/11/16 20:43:45, Log: The connections have been added to the city: Vail
+2021/11/16 20:43:45, Log: KML button activated
+2021/11/16 20:43:48, Log: KML File generated.
+2021/11/16 20:54:59, Log: Open intro window.
+2021/11/16 20:55:03, Log: Read City Button pressed
+2021/11/16 20:55:31, Log: Opened Read_City file browser
+2021/11/16 20:55:31, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 20:55:31, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 20:55:32, Log: Excel File Parsing Complete
+2021/11/16 20:55:32, Log: Read Network Button was enabled
+2021/11/16 20:55:32, Log: Read Network Button pressed
+2021/11/16 20:55:37, Log: Opened Read_Network file browser
+2021/11/16 20:55:37, Log: The connections have been added to the city: Denver
+2021/11/16 20:55:37, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 20:55:37, Log: The connections have been added to the city: Pueblo
+2021/11/16 20:55:37, Log: The connections have been added to the city: Aspen
+2021/11/16 20:55:37, Log: The connections have been added to the city: Vail
+2021/11/16 20:55:37, Log: KML button activated
+2021/11/16 20:55:46, Log: KML File generated.
+2021/11/16 21:03:10, Log: Open intro window.
+2021/11/16 21:03:14, Log: Read City Button pressed
+2021/11/16 21:03:19, Log: Opened Read_City file browser
+2021/11/16 21:03:19, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:03:19, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:03:20, Log: Excel File Parsing Complete
+2021/11/16 21:03:20, Log: Read Network Button was enabled
+2021/11/16 21:03:21, Log: Read Network Button pressed
+2021/11/16 21:03:26, Log: Opened Read_Network file browser
+2021/11/16 21:03:26, Log: The connections have been added to the city: Denver
+2021/11/16 21:03:26, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:03:26, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:03:26, Log: The connections have been added to the city: Aspen
+2021/11/16 21:03:26, Log: The connections have been added to the city: Vail
+2021/11/16 21:03:26, Log: KML button activated
+2021/11/16 21:04:11, Log: Open intro window.
+2021/11/16 21:04:13, Log: Read City Button pressed
+2021/11/16 21:04:18, Log: Opened Read_City file browser
+2021/11/16 21:04:18, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:04:18, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:04:19, Log: Excel File Parsing Complete
+2021/11/16 21:04:19, Log: Read Network Button was enabled
+2021/11/16 21:04:20, Log: Read Network Button pressed
+2021/11/16 21:04:24, Log: Opened Read_Network file browser
+2021/11/16 21:04:24, Log: The connections have been added to the city: Denver
+2021/11/16 21:04:24, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:04:24, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:04:24, Log: The connections have been added to the city: Aspen
+2021/11/16 21:04:24, Log: The connections have been added to the city: Vail
+2021/11/16 21:04:24, Log: KML button activated
+2021/11/16 21:07:22, Log: Open intro window.
+2021/11/16 21:08:01, Log: Open intro window.
+2021/11/16 21:08:49, Log: Open intro window.
+2021/11/16 21:08:51, Log: Read City Button pressed
+2021/11/16 21:08:57, Log: Opened Read_City file browser
+2021/11/16 21:08:57, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:08:57, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:08:58, Log: Excel File Parsing Complete
+2021/11/16 21:08:58, Log: Read Network Button was enabled
+2021/11/16 21:08:58, Log: Read Network Button pressed
+2021/11/16 21:09:02, Log: Opened Read_Network file browser
+2021/11/16 21:09:02, Log: The connections have been added to the city: Denver
+2021/11/16 21:09:02, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:09:02, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:09:02, Log: The connections have been added to the city: Aspen
+2021/11/16 21:09:02, Log: The connections have been added to the city: Vail
+2021/11/16 21:09:02, Log: KML button activated
+2021/11/16 21:09:59, Log: Open intro window.
+2021/11/16 21:10:02, Log: Read City Button pressed
+2021/11/16 21:10:08, Log: Opened Read_City file browser
+2021/11/16 21:10:08, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:10:08, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:10:09, Log: Excel File Parsing Complete
+2021/11/16 21:10:09, Log: Read Network Button was enabled
+2021/11/16 21:10:09, Log: Read Network Button pressed
+2021/11/16 21:10:14, Log: Opened Read_Network file browser
+2021/11/16 21:10:14, Log: The connections have been added to the city: Denver
+2021/11/16 21:10:14, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:10:14, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:10:14, Log: The connections have been added to the city: Aspen
+2021/11/16 21:10:14, Log: The connections have been added to the city: Vail
+2021/11/16 21:10:14, Log: KML button activated
+2021/11/16 21:10:30, Log: ERROR: null
+2021/11/16 21:10:44, Log: Open intro window.
+2021/11/16 21:10:50, Log: Read City Button pressed
+2021/11/16 21:10:57, Log: Opened Read_City file browser
+2021/11/16 21:10:57, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:10:57, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:10:58, Log: Excel File Parsing Complete
+2021/11/16 21:10:58, Log: Read Network Button was enabled
+2021/11/16 21:10:59, Log: Read Network Button pressed
+2021/11/16 21:11:03, Log: Opened Read_Network file browser
+2021/11/16 21:11:03, Log: The connections have been added to the city: Denver
+2021/11/16 21:11:03, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:11:03, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:11:03, Log: The connections have been added to the city: Aspen
+2021/11/16 21:11:03, Log: The connections have been added to the city: Vail
+2021/11/16 21:11:03, Log: KML button activated
+2021/11/16 21:11:08, Log: KML File generated.
+2021/11/16 21:30:55, Log: Open intro window.
+2021/11/16 21:30:59, Log: Read City Button pressed
+2021/11/16 21:31:04, Log: Opened Read_City file browser
+2021/11/16 21:31:04, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:31:04, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:31:05, Log: Excel File Parsing Complete
+2021/11/16 21:31:05, Log: Read Network Button was enabled
+2021/11/16 21:31:06, Log: Read Network Button pressed
+2021/11/16 21:31:10, Log: Opened Read_Network file browser
+2021/11/16 21:31:10, Log: The connections have been added to the city: Denver
+2021/11/16 21:31:10, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:31:10, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:31:10, Log: The connections have been added to the city: Aspen
+2021/11/16 21:31:10, Log: The connections have been added to the city: Vail
+2021/11/16 21:31:10, Log: KML button activated
+2021/11/16 21:33:39, Log: Open intro window.
+2021/11/16 21:33:42, Log: Read City Button pressed
+2021/11/16 21:33:46, Log: Opened Read_City file browser
+2021/11/16 21:33:46, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:33:46, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:33:47, Log: Excel File Parsing Complete
+2021/11/16 21:33:47, Log: Read Network Button was enabled
+2021/11/16 21:33:47, Log: Read Network Button pressed
+2021/11/16 21:33:51, Log: Opened Read_Network file browser
+2021/11/16 21:33:51, Log: The connections have been added to the city: Denver
+2021/11/16 21:33:51, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:33:51, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:33:51, Log: The connections have been added to the city: Aspen
+2021/11/16 21:33:51, Log: The connections have been added to the city: Vail
+2021/11/16 21:33:51, Log: KML button activated
+2021/11/16 21:35:51, Log: Open intro window.
+2021/11/16 21:35:54, Log: Read City Button pressed
+2021/11/16 21:35:59, Log: Opened Read_City file browser
+2021/11/16 21:35:59, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:35:59, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:35:59, Log: Excel File Parsing Complete
+2021/11/16 21:35:59, Log: Read Network Button was enabled
+2021/11/16 21:36:00, Log: Read Network Button pressed
+2021/11/16 21:36:04, Log: Opened Read_Network file browser
+2021/11/16 21:36:04, Log: The connections have been added to the city: Denver
+2021/11/16 21:36:04, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:36:04, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:36:04, Log: The connections have been added to the city: Aspen
+2021/11/16 21:36:04, Log: The connections have been added to the city: Vail
+2021/11/16 21:36:04, Log: KML button activated
+2021/11/16 21:36:17, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 21:37:46, Log: Open intro window.
+2021/11/16 21:37:49, Log: Read City Button pressed
+2021/11/16 21:37:53, Log: Opened Read_City file browser
+2021/11/16 21:37:53, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:37:53, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:37:54, Log: Excel File Parsing Complete
+2021/11/16 21:37:54, Log: Read Network Button was enabled
+2021/11/16 21:37:54, Log: Read Network Button pressed
+2021/11/16 21:37:58, Log: Opened Read_Network file browser
+2021/11/16 21:37:58, Log: The connections have been added to the city: Denver
+2021/11/16 21:37:58, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:37:58, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:37:58, Log: The connections have been added to the city: Aspen
+2021/11/16 21:37:58, Log: The connections have been added to the city: Vail
+2021/11/16 21:37:58, Log: KML button activated
+2021/11/16 21:38:48, Log: Open intro window.
+2021/11/16 21:38:51, Log: Read City Button pressed
+2021/11/16 21:38:56, Log: Opened Read_City file browser
+2021/11/16 21:38:56, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:38:56, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:38:57, Log: Excel File Parsing Complete
+2021/11/16 21:38:57, Log: Read Network Button was enabled
+2021/11/16 21:38:58, Log: Read Network Button pressed
+2021/11/16 21:39:02, Log: Opened Read_Network file browser
+2021/11/16 21:39:02, Log: The connections have been added to the city: Denver
+2021/11/16 21:39:02, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:39:02, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:39:02, Log: The connections have been added to the city: Aspen
+2021/11/16 21:39:02, Log: The connections have been added to the city: Vail
+2021/11/16 21:39:02, Log: KML button activated
+2021/11/16 21:39:10, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 21:39:45, Log: Open intro window.
+2021/11/16 21:39:47, Log: Read City Button pressed
+2021/11/16 21:39:53, Log: Opened Read_City file browser
+2021/11/16 21:39:53, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:39:53, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:39:53, Log: Excel File Parsing Complete
+2021/11/16 21:39:53, Log: Read Network Button was enabled
+2021/11/16 21:39:54, Log: Read Network Button pressed
+2021/11/16 21:39:59, Log: Opened Read_Network file browser
+2021/11/16 21:39:59, Log: The connections have been added to the city: Denver
+2021/11/16 21:39:59, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:39:59, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:39:59, Log: The connections have been added to the city: Aspen
+2021/11/16 21:39:59, Log: The connections have been added to the city: Vail
+2021/11/16 21:39:59, Log: KML button activated
+2021/11/16 21:40:17, Log: KML File generated.
+2021/11/16 21:40:42, Log: Open intro window.
+2021/11/16 21:41:27, Log: Open intro window.
+2021/11/16 21:41:32, Log: Read City Button pressed
+2021/11/16 21:41:36, Log: Opened Read_City file browser
+2021/11/16 21:41:36, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:41:36, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:41:37, Log: Excel File Parsing Complete
+2021/11/16 21:41:37, Log: Read Network Button was enabled
+2021/11/16 21:41:37, Log: Read Network Button pressed
+2021/11/16 21:41:41, Log: Opened Read_Network file browser
+2021/11/16 21:41:41, Log: The connections have been added to the city: Denver
+2021/11/16 21:41:41, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:41:41, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:41:41, Log: The connections have been added to the city: Aspen
+2021/11/16 21:41:41, Log: The connections have been added to the city: Vail
+2021/11/16 21:41:41, Log: KML button activated
+2021/11/16 21:41:47, Log: KML File generated.
+2021/11/16 21:43:07, Log: Open intro window.
+2021/11/16 21:43:11, Log: Read City Button pressed
+2021/11/16 21:43:16, Log: Opened Read_City file browser
+2021/11/16 21:43:16, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 21:43:16, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 21:43:16, Log: Excel File Parsing Complete
+2021/11/16 21:43:16, Log: Read Network Button was enabled
+2021/11/16 21:43:17, Log: Read Network Button pressed
+2021/11/16 21:43:22, Log: Opened Read_Network file browser
+2021/11/16 21:43:22, Log: The connections have been added to the city: Denver
+2021/11/16 21:43:22, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 21:43:22, Log: The connections have been added to the city: Pueblo
+2021/11/16 21:43:22, Log: The connections have been added to the city: Aspen
+2021/11/16 21:43:22, Log: The connections have been added to the city: Vail
+2021/11/16 21:43:22, Log: KML button activated
+2021/11/16 21:43:28, Log: KML File generated.
+2021/11/16 22:01:41, Log: Open intro window.
+2021/11/16 22:01:44, Log: Read City Button pressed
+2021/11/16 22:01:48, Log: Opened Read_City file browser
+2021/11/16 22:01:48, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:01:48, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:01:49, Log: Excel File Parsing Complete
+2021/11/16 22:01:49, Log: Read Network Button was enabled
+2021/11/16 22:05:16, Log: Open intro window.
+2021/11/16 22:05:19, Log: Read City Button pressed
+2021/11/16 22:05:28, Log: Opened Read_City file browser
+2021/11/16 22:05:28, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:05:28, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:05:28, Log: Excel File Parsing Complete
+2021/11/16 22:05:28, Log: Read Network Button was enabled
+2021/11/16 22:05:29, Log: Read Network Button pressed
+2021/11/16 22:05:33, Log: Opened Read_Network file browser
+2021/11/16 22:05:33, Log: The connections have been added to the city: Denver
+2021/11/16 22:05:33, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:05:33, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:05:33, Log: The connections have been added to the city: Aspen
+2021/11/16 22:05:33, Log: The connections have been added to the city: Vail
+2021/11/16 22:05:33, Log: KML button activated
+2021/11/16 22:05:43, Log: KML File generated.
+2021/11/16 22:08:04, Log: Open intro window.
+2021/11/16 22:08:07, Log: Read City Button pressed
+2021/11/16 22:08:12, Log: Opened Read_City file browser
+2021/11/16 22:08:12, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:08:12, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:08:13, Log: Excel File Parsing Complete
+2021/11/16 22:08:13, Log: Read Network Button was enabled
+2021/11/16 22:08:13, Log: Read Network Button pressed
+2021/11/16 22:08:19, Log: Opened Read_Network file browser
+2021/11/16 22:08:19, Log: The connections have been added to the city: Denver
+2021/11/16 22:08:19, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:08:19, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:08:19, Log: The connections have been added to the city: Aspen
+2021/11/16 22:08:19, Log: The connections have been added to the city: Vail
+2021/11/16 22:08:19, Log: KML button activated
+2021/11/16 22:08:28, Log: KML File generated.
+2021/11/16 22:09:03, Log: Open intro window.
+2021/11/16 22:09:08, Log: Read City Button pressed
+2021/11/16 22:09:12, Log: Opened Read_City file browser
+2021/11/16 22:09:12, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:09:12, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:09:12, Log: Excel File Parsing Complete
+2021/11/16 22:09:12, Log: Read Network Button was enabled
+2021/11/16 22:09:13, Log: Read Network Button pressed
+2021/11/16 22:09:16, Log: Opened Read_Network file browser
+2021/11/16 22:09:16, Log: The connections have been added to the city: Denver
+2021/11/16 22:09:16, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:09:16, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:09:16, Log: The connections have been added to the city: Aspen
+2021/11/16 22:09:16, Log: The connections have been added to the city: Vail
+2021/11/16 22:09:16, Log: KML button activated
+2021/11/16 22:11:45, Log: Open intro window.
+2021/11/16 22:11:47, Log: Read City Button pressed
+2021/11/16 22:11:53, Log: Opened Read_City file browser
+2021/11/16 22:11:53, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:11:53, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:11:54, Log: Excel File Parsing Complete
+2021/11/16 22:11:54, Log: Read Network Button was enabled
+2021/11/16 22:11:55, Log: Read Network Button pressed
+2021/11/16 22:12:00, Log: Opened Read_Network file browser
+2021/11/16 22:12:00, Log: The connections have been added to the city: Denver
+2021/11/16 22:12:00, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:12:00, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:12:00, Log: The connections have been added to the city: Aspen
+2021/11/16 22:12:00, Log: The connections have been added to the city: Vail
+2021/11/16 22:12:00, Log: KML button activated
+2021/11/16 22:12:09, Log: KML File generated.
+2021/11/16 22:14:21, Log: Open intro window.
+2021/11/16 22:14:25, Log: Read City Button pressed
+2021/11/16 22:14:33, Log: Opened Read_City file browser
+2021/11/16 22:14:33, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:14:33, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:14:33, Log: Excel File Parsing Complete
+2021/11/16 22:14:33, Log: Read Network Button was enabled
+2021/11/16 22:14:38, Log: Read Network Button pressed
+2021/11/16 22:14:42, Log: Opened Read_Network file browser
+2021/11/16 22:14:42, Log: The connections have been added to the city: Denver
+2021/11/16 22:14:42, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:14:42, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:14:42, Log: The connections have been added to the city: Aspen
+2021/11/16 22:14:42, Log: The connections have been added to the city: Vail
+2021/11/16 22:14:42, Log: KML button activated
+2021/11/16 22:14:47, Log: KML File generated.
+2021/11/16 22:31:07, Log: Open intro window.
+2021/11/16 22:31:09, Log: Read City Button pressed
+2021/11/16 22:31:13, Log: Opened Read_City file browser
+2021/11/16 22:31:13, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:31:13, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:31:14, Log: Excel File Parsing Complete
+2021/11/16 22:31:14, Log: Read Network Button was enabled
+2021/11/16 22:31:15, Log: Read Network Button pressed
+2021/11/16 22:31:19, Log: Opened Read_Network file browser
+2021/11/16 22:31:19, Log: The connections have been added to the city: Denver
+2021/11/16 22:31:19, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:31:19, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:31:19, Log: The connections have been added to the city: Aspen
+2021/11/16 22:31:19, Log: The connections have been added to the city: Vail
+2021/11/16 22:31:19, Log: KML button activated
+2021/11/16 22:33:54, Log: Open intro window.
+2021/11/16 22:33:59, Log: Read City Button pressed
+2021/11/16 22:34:04, Log: Opened Read_City file browser
+2021/11/16 22:34:04, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:34:04, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:34:05, Log: Excel File Parsing Complete
+2021/11/16 22:34:05, Log: Read Network Button was enabled
+2021/11/16 22:34:05, Log: Read Network Button pressed
+2021/11/16 22:34:09, Log: Opened Read_Network file browser
+2021/11/16 22:34:09, Log: The connections have been added to the city: Denver
+2021/11/16 22:34:09, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:34:09, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:34:09, Log: The connections have been added to the city: Aspen
+2021/11/16 22:34:09, Log: The connections have been added to the city: Vail
+2021/11/16 22:34:09, Log: KML button activated
+2021/11/16 22:54:14, Log: Open intro window.
+2021/11/16 22:54:16, Log: Read City Button pressed
+2021/11/16 22:54:23, Log: Opened Read_City file browser
+2021/11/16 22:54:23, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 22:54:23, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 22:54:24, Log: Excel File Parsing Complete
+2021/11/16 22:54:24, Log: Read Network Button was enabled
+2021/11/16 22:54:24, Log: Read Network Button pressed
+2021/11/16 22:54:30, Log: Opened Read_Network file browser
+2021/11/16 22:54:30, Log: The connections have been added to the city: Denver
+2021/11/16 22:54:30, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 22:54:30, Log: The connections have been added to the city: Pueblo
+2021/11/16 22:54:30, Log: The connections have been added to the city: Aspen
+2021/11/16 22:54:30, Log: The connections have been added to the city: Vail
+2021/11/16 22:54:30, Log: KML button activated
+2021/11/16 23:00:07, Log: Open intro window.
+2021/11/16 23:00:12, Log: Read City Button pressed
+2021/11/16 23:00:22, Log: Opened Read_City file browser
+2021/11/16 23:00:22, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:00:22, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:00:23, Log: Excel File Parsing Complete
+2021/11/16 23:00:23, Log: Read Network Button was enabled
+2021/11/16 23:00:23, Log: Read Network Button pressed
+2021/11/16 23:00:26, Log: Opened Read_Network file browser
+2021/11/16 23:00:26, Log: The connections have been added to the city: Denver
+2021/11/16 23:00:26, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:00:26, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:00:26, Log: The connections have been added to the city: Aspen
+2021/11/16 23:00:26, Log: The connections have been added to the city: Vail
+2021/11/16 23:00:26, Log: KML button activated
+2021/11/16 23:00:35, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 23:00:38, Log: Open intro window.
+2021/11/16 23:00:51, Log: Open intro window.
+2021/11/16 23:00:53, Log: Read City Button pressed
+2021/11/16 23:00:57, Log: Opened Read_City file browser
+2021/11/16 23:00:57, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:00:57, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:00:58, Log: Excel File Parsing Complete
+2021/11/16 23:00:58, Log: Read Network Button was enabled
+2021/11/16 23:00:59, Log: Read Network Button pressed
+2021/11/16 23:01:03, Log: Opened Read_Network file browser
+2021/11/16 23:01:03, Log: The connections have been added to the city: Denver
+2021/11/16 23:01:03, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:01:03, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:01:03, Log: The connections have been added to the city: Aspen
+2021/11/16 23:01:03, Log: The connections have been added to the city: Vail
+2021/11/16 23:01:03, Log: KML button activated
+2021/11/16 23:01:09, Log: KML File generated.
+2021/11/16 23:13:56, Log: Open intro window.
+2021/11/16 23:13:59, Log: Read City Button pressed
+2021/11/16 23:14:06, Log: Opened Read_City file browser
+2021/11/16 23:14:06, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:14:06, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:14:07, Log: Excel File Parsing Complete
+2021/11/16 23:14:07, Log: Read Network Button was enabled
+2021/11/16 23:14:07, Log: Read Network Button pressed
+2021/11/16 23:14:12, Log: Opened Read_Network file browser
+2021/11/16 23:14:12, Log: The connections have been added to the city: Denver
+2021/11/16 23:14:12, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:14:12, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:14:12, Log: The connections have been added to the city: Aspen
+2021/11/16 23:14:12, Log: The connections have been added to the city: Vail
+2021/11/16 23:14:12, Log: KML button activated
+2021/11/16 23:14:36, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:14:47, Log: Open intro window.
+2021/11/16 23:14:49, Log: Read City Button pressed
+2021/11/16 23:14:54, Log: Opened Read_City file browser
+2021/11/16 23:14:54, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:14:54, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:14:54, Log: Excel File Parsing Complete
+2021/11/16 23:14:54, Log: Read Network Button was enabled
+2021/11/16 23:14:55, Log: Read Network Button pressed
+2021/11/16 23:14:58, Log: Opened Read_Network file browser
+2021/11/16 23:14:58, Log: The connections have been added to the city: Denver
+2021/11/16 23:14:58, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:14:58, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:14:58, Log: The connections have been added to the city: Aspen
+2021/11/16 23:14:58, Log: The connections have been added to the city: Vail
+2021/11/16 23:14:58, Log: KML button activated
+2021/11/16 23:15:03, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 23:15:06, Log: Open intro window.
+2021/11/16 23:15:10, Log: Read City Button pressed
+2021/11/16 23:15:13, Log: Opened Read_City file browser
+2021/11/16 23:15:13, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:15:13, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:15:14, Log: Excel File Parsing Complete
+2021/11/16 23:15:14, Log: Read Network Button was enabled
+2021/11/16 23:15:14, Log: Read Network Button pressed
+2021/11/16 23:15:17, Log: Opened Read_Network file browser
+2021/11/16 23:15:17, Log: The connections have been added to the city: Denver
+2021/11/16 23:15:17, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:15:17, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:15:17, Log: The connections have been added to the city: Aspen
+2021/11/16 23:15:17, Log: The connections have been added to the city: Vail
+2021/11/16 23:15:17, Log: KML button activated
+2021/11/16 23:15:27, Log: KML File generated.
+2021/11/16 23:16:35, Log: Open intro window.
+2021/11/16 23:16:37, Log: Read City Button pressed
+2021/11/16 23:16:45, Log: Opened Read_City file browser
+2021/11/16 23:16:45, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:16:45, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:16:45, Log: Excel File Parsing Complete
+2021/11/16 23:16:45, Log: Read Network Button was enabled
+2021/11/16 23:16:46, Log: Read Network Button pressed
+2021/11/16 23:16:49, Log: Opened Read_Network file browser
+2021/11/16 23:16:49, Log: The connections have been added to the city: Denver
+2021/11/16 23:16:49, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:16:49, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:16:49, Log: The connections have been added to the city: Aspen
+2021/11/16 23:16:49, Log: The connections have been added to the city: Vail
+2021/11/16 23:16:49, Log: KML button activated
+2021/11/16 23:16:55, Log: KML File generated.
+2021/11/16 23:19:25, Log: Open intro window.
+2021/11/16 23:19:27, Log: Read City Button pressed
+2021/11/16 23:19:34, Log: Opened Read_City file browser
+2021/11/16 23:19:34, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:19:34, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:19:35, Log: Excel File Parsing Complete
+2021/11/16 23:19:35, Log: Read Network Button was enabled
+2021/11/16 23:19:35, Log: Read Network Button pressed
+2021/11/16 23:19:41, Log: Opened Read_Network file browser
+2021/11/16 23:19:41, Log: The connections have been added to the city: Denver
+2021/11/16 23:19:41, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:19:41, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:19:41, Log: The connections have been added to the city: Aspen
+2021/11/16 23:19:41, Log: The connections have been added to the city: Vail
+2021/11/16 23:19:41, Log: KML button activated
+2021/11/16 23:19:48, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 23:19:52, Log: Open intro window.
+2021/11/16 23:19:55, Log: Read City Button pressed
+2021/11/16 23:20:00, Log: Opened Read_City file browser
+2021/11/16 23:20:00, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:20:00, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:20:01, Log: Excel File Parsing Complete
+2021/11/16 23:20:01, Log: Read Network Button was enabled
+2021/11/16 23:20:01, Log: Read Network Button pressed
+2021/11/16 23:20:04, Log: Opened Read_Network file browser
+2021/11/16 23:20:04, Log: The connections have been added to the city: Denver
+2021/11/16 23:20:04, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:20:04, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:20:04, Log: The connections have been added to the city: Aspen
+2021/11/16 23:20:04, Log: The connections have been added to the city: Vail
+2021/11/16 23:20:04, Log: KML button activated
+2021/11/16 23:20:10, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:20:23, Log: Open intro window.
+2021/11/16 23:20:29, Log: Read City Button pressed
+2021/11/16 23:20:33, Log: Opened Read_City file browser
+2021/11/16 23:20:33, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:20:33, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:20:33, Log: Excel File Parsing Complete
+2021/11/16 23:20:33, Log: Read Network Button was enabled
+2021/11/16 23:20:34, Log: Read Network Button pressed
+2021/11/16 23:20:37, Log: Opened Read_Network file browser
+2021/11/16 23:20:37, Log: The connections have been added to the city: Denver
+2021/11/16 23:20:37, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:20:37, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:20:37, Log: The connections have been added to the city: Aspen
+2021/11/16 23:20:37, Log: The connections have been added to the city: Vail
+2021/11/16 23:20:37, Log: KML button activated
+2021/11/16 23:20:42, Log: ERROR: Error in generateKML: filename is empty
+2021/11/16 23:23:40, Log: Open intro window.
+2021/11/16 23:23:43, Log: Read City Button pressed
+2021/11/16 23:23:47, Log: Opened Read_City file browser
+2021/11/16 23:23:47, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:23:47, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:23:48, Log: Excel File Parsing Complete
+2021/11/16 23:23:48, Log: Read Network Button was enabled
+2021/11/16 23:23:48, Log: Read Network Button pressed
+2021/11/16 23:23:52, Log: Opened Read_Network file browser
+2021/11/16 23:23:52, Log: The connections have been added to the city: Denver
+2021/11/16 23:23:52, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:23:52, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:23:52, Log: The connections have been added to the city: Aspen
+2021/11/16 23:23:52, Log: The connections have been added to the city: Vail
+2021/11/16 23:23:52, Log: KML button activated
+2021/11/16 23:24:03, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:25:25, Log: Open intro window.
+2021/11/16 23:25:27, Log: Read City Button pressed
+2021/11/16 23:25:31, Log: Opened Read_City file browser
+2021/11/16 23:25:31, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:25:31, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:25:32, Log: Excel File Parsing Complete
+2021/11/16 23:25:32, Log: Read Network Button was enabled
+2021/11/16 23:25:32, Log: Read Network Button pressed
+2021/11/16 23:25:36, Log: Opened Read_Network file browser
+2021/11/16 23:25:36, Log: The connections have been added to the city: Denver
+2021/11/16 23:25:36, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:25:36, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:25:36, Log: The connections have been added to the city: Aspen
+2021/11/16 23:25:36, Log: The connections have been added to the city: Vail
+2021/11/16 23:25:36, Log: KML button activated
+2021/11/16 23:25:44, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:27:12, Log: Open intro window.
+2021/11/16 23:27:14, Log: Read City Button pressed
+2021/11/16 23:27:18, Log: Opened Read_City file browser
+2021/11/16 23:27:18, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:27:18, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:27:19, Log: Excel File Parsing Complete
+2021/11/16 23:27:19, Log: Read Network Button was enabled
+2021/11/16 23:27:19, Log: Read Network Button pressed
+2021/11/16 23:27:22, Log: Opened Read_Network file browser
+2021/11/16 23:27:22, Log: The connections have been added to the city: Denver
+2021/11/16 23:27:22, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:27:22, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:27:22, Log: The connections have been added to the city: Aspen
+2021/11/16 23:27:22, Log: The connections have been added to the city: Vail
+2021/11/16 23:27:22, Log: KML button activated
+2021/11/16 23:27:47, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:30:22, Log: Open intro window.
+2021/11/16 23:30:24, Log: Read City Button pressed
+2021/11/16 23:30:30, Log: Opened Read_City file browser
+2021/11/16 23:30:30, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:30:30, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:30:30, Log: Excel File Parsing Complete
+2021/11/16 23:30:30, Log: Read Network Button was enabled
+2021/11/16 23:30:31, Log: Read Network Button pressed
+2021/11/16 23:30:34, Log: Opened Read_Network file browser
+2021/11/16 23:30:34, Log: The connections have been added to the city: Denver
+2021/11/16 23:30:34, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:30:34, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:30:34, Log: The connections have been added to the city: Aspen
+2021/11/16 23:30:34, Log: The connections have been added to the city: Vail
+2021/11/16 23:30:34, Log: KML button activated
+2021/11/16 23:30:40, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:34:09, Log: Open intro window.
+2021/11/16 23:34:12, Log: Read City Button pressed
+2021/11/16 23:34:15, Log: Opened Read_City file browser
+2021/11/16 23:34:15, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:34:15, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:34:16, Log: Excel File Parsing Complete
+2021/11/16 23:34:16, Log: Read Network Button was enabled
+2021/11/16 23:34:16, Log: Read Network Button pressed
+2021/11/16 23:34:21, Log: Opened Read_Network file browser
+2021/11/16 23:34:21, Log: The connections have been added to the city: Denver
+2021/11/16 23:34:21, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:34:21, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:34:21, Log: The connections have been added to the city: Aspen
+2021/11/16 23:34:21, Log: The connections have been added to the city: Vail
+2021/11/16 23:34:21, Log: KML button activated
+2021/11/16 23:34:27, Log: ERROR: findCity error occurred. CityInfo not found.
+2021/11/16 23:43:08, Log: Open intro window.
+2021/11/16 23:43:11, Log: Read City Button pressed
+2021/11/16 23:43:16, Log: Opened Read_City file browser
+2021/11/16 23:43:16, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:43:16, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:43:17, Log: Excel File Parsing Complete
+2021/11/16 23:43:17, Log: Read Network Button was enabled
+2021/11/16 23:43:17, Log: Read Network Button pressed
+2021/11/16 23:43:21, Log: Opened Read_Network file browser
+2021/11/16 23:43:21, Log: The connections have been added to the city: Denver
+2021/11/16 23:43:21, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:43:21, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:43:21, Log: The connections have been added to the city: Aspen
+2021/11/16 23:43:21, Log: The connections have been added to the city: Vail
+2021/11/16 23:43:21, Log: KML button activated
+2021/11/16 23:43:25, Log: KML File generated.
+2021/11/16 23:45:57, Log: Open intro window.
+2021/11/16 23:46:29, Log: Open intro window.
+2021/11/16 23:46:31, Log: Read City Button pressed
+2021/11/16 23:46:35, Log: Opened Read_City file browser
+2021/11/16 23:46:35, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:46:35, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:46:36, Log: Excel File Parsing Complete
+2021/11/16 23:46:36, Log: Read Network Button was enabled
+2021/11/16 23:46:36, Log: Read Network Button pressed
+2021/11/16 23:46:40, Log: Opened Read_Network file browser
+2021/11/16 23:46:40, Log: The connections have been added to the city: Denver
+2021/11/16 23:46:40, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:46:40, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:46:40, Log: The connections have been added to the city: Aspen
+2021/11/16 23:46:40, Log: The connections have been added to the city: Vail
+2021/11/16 23:46:40, Log: KML button activated
+2021/11/16 23:46:46, Log: KML File generated.
+2021/11/16 23:47:55, Log: Open intro window.
+2021/11/16 23:47:58, Log: Read City Button pressed
+2021/11/16 23:48:03, Log: Opened Read_City file browser
+2021/11/16 23:48:03, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/16 23:48:03, Log: Select File Name: colorado_cities.xlsx
+2021/11/16 23:48:03, Log: Excel File Parsing Complete
+2021/11/16 23:48:03, Log: Read Network Button was enabled
+2021/11/16 23:48:03, Log: Read Network Button pressed
+2021/11/16 23:48:08, Log: Opened Read_Network file browser
+2021/11/16 23:48:08, Log: The connections have been added to the city: Denver
+2021/11/16 23:48:08, Log: The connections have been added to the city: Colorado Springs
+2021/11/16 23:48:08, Log: The connections have been added to the city: Pueblo
+2021/11/16 23:48:08, Log: The connections have been added to the city: Aspen
+2021/11/16 23:48:08, Log: The connections have been added to the city: Vail
+2021/11/16 23:48:08, Log: KML button activated
+2021/11/16 23:48:14, Log: KML File generated.
+2021/11/17 07:28:24, Log: Open intro window.
+2021/11/17 07:28:30, Log: Read City Button pressed
+2021/11/17 07:28:39, Log: Opened Read_City file browser
+2021/11/17 07:28:39, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:28:39, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:28:40, Log: Excel File Parsing Complete
+2021/11/17 07:28:40, Log: Read Network Button was enabled
+2021/11/17 07:28:41, Log: Read Network Button pressed
+2021/11/17 07:28:46, Log: Opened Read_Network file browser
+2021/11/17 07:28:46, Log: The connections have been added to the city: Denver
+2021/11/17 07:28:46, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:28:46, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:28:46, Log: The connections have been added to the city: Aspen
+2021/11/17 07:28:46, Log: The connections have been added to the city: Vail
+2021/11/17 07:28:46, Log: KML button activated
+2021/11/17 07:29:01, Log: KML File generated.
+2021/11/17 07:32:39, Log: Open intro window.
+2021/11/17 07:32:44, Log: Read City Button pressed
+2021/11/17 07:32:49, Log: Opened Read_City file browser
+2021/11/17 07:32:49, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:32:49, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:32:50, Log: Excel File Parsing Complete
+2021/11/17 07:32:50, Log: Read Network Button was enabled
+2021/11/17 07:32:50, Log: Read Network Button pressed
+2021/11/17 07:32:54, Log: Opened Read_Network file browser
+2021/11/17 07:32:54, Log: The connections have been added to the city: Denver
+2021/11/17 07:32:54, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:32:54, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:32:54, Log: The connections have been added to the city: Aspen
+2021/11/17 07:32:54, Log: The connections have been added to the city: Vail
+2021/11/17 07:32:54, Log: KML button activated
+2021/11/17 07:33:02, Log: KML File generated.
+2021/11/17 07:36:38, Log: Open intro window.
+2021/11/17 07:36:43, Log: Read City Button pressed
+2021/11/17 07:36:50, Log: Opened Read_City file browser
+2021/11/17 07:36:50, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:36:50, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:36:51, Log: Excel File Parsing Complete
+2021/11/17 07:36:51, Log: Read Network Button was enabled
+2021/11/17 07:36:51, Log: Read Network Button pressed
+2021/11/17 07:36:56, Log: Opened Read_Network file browser
+2021/11/17 07:36:56, Log: The connections have been added to the city: Denver
+2021/11/17 07:36:56, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:36:56, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:36:56, Log: The connections have been added to the city: Aspen
+2021/11/17 07:36:56, Log: The connections have been added to the city: Vail
+2021/11/17 07:36:56, Log: KML button activated
+2021/11/17 07:37:12, Log: KML File generated.
+2021/11/17 07:38:10, Log: Open intro window.
+2021/11/17 07:38:15, Log: Read City Button pressed
+2021/11/17 07:38:22, Log: Opened Read_City file browser
+2021/11/17 07:38:22, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:38:22, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:38:23, Log: Excel File Parsing Complete
+2021/11/17 07:38:23, Log: Read Network Button was enabled
+2021/11/17 07:38:24, Log: Read Network Button pressed
+2021/11/17 07:38:28, Log: Opened Read_Network file browser
+2021/11/17 07:38:28, Log: The connections have been added to the city: Denver
+2021/11/17 07:38:28, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:38:28, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:38:28, Log: The connections have been added to the city: Aspen
+2021/11/17 07:38:28, Log: The connections have been added to the city: Vail
+2021/11/17 07:38:28, Log: KML button activated
+2021/11/17 07:38:46, Log: KML File generated.
+2021/11/17 07:39:57, Log: Open intro window.
+2021/11/17 07:40:02, Log: Read City Button pressed
+2021/11/17 07:40:08, Log: Opened Read_City file browser
+2021/11/17 07:40:08, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:40:08, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:40:09, Log: Excel File Parsing Complete
+2021/11/17 07:40:09, Log: Read Network Button was enabled
+2021/11/17 07:40:09, Log: Read Network Button pressed
+2021/11/17 07:40:14, Log: Opened Read_Network file browser
+2021/11/17 07:40:14, Log: The connections have been added to the city: Denver
+2021/11/17 07:40:14, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:40:14, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:40:14, Log: The connections have been added to the city: Aspen
+2021/11/17 07:40:14, Log: The connections have been added to the city: Vail
+2021/11/17 07:40:14, Log: KML button activated
+2021/11/17 07:40:29, Log: ERROR: Error in generateKML: filename is empty
+2021/11/17 07:40:33, Log: Open intro window.
+2021/11/17 07:40:38, Log: Read City Button pressed
+2021/11/17 07:40:44, Log: Opened Read_City file browser
+2021/11/17 07:40:44, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:40:44, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:40:45, Log: Excel File Parsing Complete
+2021/11/17 07:40:45, Log: Read Network Button was enabled
+2021/11/17 07:40:45, Log: Read Network Button pressed
+2021/11/17 07:40:50, Log: Opened Read_Network file browser
+2021/11/17 07:40:50, Log: The connections have been added to the city: Denver
+2021/11/17 07:40:50, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:40:50, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:40:50, Log: The connections have been added to the city: Aspen
+2021/11/17 07:40:50, Log: The connections have been added to the city: Vail
+2021/11/17 07:40:50, Log: KML button activated
+2021/11/17 07:41:03, Log: KML File generated.
+2021/11/17 07:41:47, Log: Open intro window.
+2021/11/17 07:41:58, Log: Read City Button pressed
+2021/11/17 07:42:03, Log: Opened Read_City file browser
+2021/11/17 07:42:03, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:42:03, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:42:04, Log: Excel File Parsing Complete
+2021/11/17 07:42:04, Log: Read Network Button was enabled
+2021/11/17 07:42:04, Log: Read Network Button pressed
+2021/11/17 07:42:08, Log: Opened Read_Network file browser
+2021/11/17 07:42:08, Log: The connections have been added to the city: Denver
+2021/11/17 07:42:08, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:42:08, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:42:08, Log: The connections have been added to the city: Aspen
+2021/11/17 07:42:08, Log: The connections have been added to the city: Vail
+2021/11/17 07:42:08, Log: KML button activated
+2021/11/17 07:42:22, Log: KML File generated.
+2021/11/17 07:43:55, Log: Open intro window.
+2021/11/17 07:44:00, Log: Read City Button pressed
+2021/11/17 07:44:07, Log: Opened Read_City file browser
+2021/11/17 07:44:07, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 07:44:07, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 07:44:08, Log: Excel File Parsing Complete
+2021/11/17 07:44:08, Log: Read Network Button was enabled
+2021/11/17 07:44:08, Log: Read Network Button pressed
+2021/11/17 07:44:13, Log: Opened Read_Network file browser
+2021/11/17 07:44:13, Log: The connections have been added to the city: Denver
+2021/11/17 07:44:13, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 07:44:13, Log: The connections have been added to the city: Pueblo
+2021/11/17 07:44:13, Log: The connections have been added to the city: Aspen
+2021/11/17 07:44:13, Log: The connections have been added to the city: Vail
+2021/11/17 07:44:13, Log: KML button activated
+2021/11/17 07:44:24, Log: KML File generated.
+2021/11/17 07:52:53, Log: Open intro window.
+2021/11/17 08:02:19, Log: Open intro window.
+2021/11/17 08:02:23, Log: Read City Button pressed
+2021/11/17 08:02:31, Log: Opened Read_City file browser
+2021/11/17 08:02:31, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/17 08:02:31, Log: Select File Name: colorado_cities.xlsx
+2021/11/17 08:02:32, Log: Excel File Parsing Complete
+2021/11/17 08:02:32, Log: Read Network Button was enabled
+2021/11/17 08:02:32, Log: Read Network Button pressed
+2021/11/17 08:02:36, Log: Opened Read_Network file browser
+2021/11/17 08:02:36, Log: The connections have been added to the city: Denver
+2021/11/17 08:02:36, Log: The connections have been added to the city: Colorado Springs
+2021/11/17 08:02:36, Log: The connections have been added to the city: Pueblo
+2021/11/17 08:02:36, Log: The connections have been added to the city: Aspen
+2021/11/17 08:02:36, Log: The connections have been added to the city: Vail
+2021/11/17 08:02:36, Log: KML button activated
+2021/11/17 08:02:47, Log: ERROR: You didn't select a city!
+2021/11/18 12:27:09, Log: Open intro window.
+2021/11/18 12:27:12, Log: Read City Button pressed
+2021/11/18 12:27:16, Log: Opened Read_City file browser
+2021/11/18 12:27:16, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 12:27:16, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 12:27:17, Log: Excel File Parsing Complete
+2021/11/18 12:27:17, Log: Read Network Button was enabled
+2021/11/18 12:27:18, Log: Read Network Button pressed
+2021/11/18 12:27:22, Log: Opened Read_Network file browser
+2021/11/18 12:27:22, Log: The connections have been added to the city: Denver
+2021/11/18 12:27:22, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 12:27:22, Log: The connections have been added to the city: Pueblo
+2021/11/18 12:27:22, Log: The connections have been added to the city: Aspen
+2021/11/18 12:27:22, Log: The connections have been added to the city: Vail
+2021/11/18 12:27:22, Log: KML button activated
+2021/11/18 12:27:28, Log: KML File generated.
+2021/11/18 16:16:27, Log: Open intro window.
+2021/11/18 16:16:31, Log: Read City Button pressed
+2021/11/18 16:16:43, Log: Opened Read_City file browser
+2021/11/18 16:16:43, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:16:43, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:16:44, Log: Excel File Parsing Complete
+2021/11/18 16:16:44, Log: Read Network Button was enabled
+2021/11/18 16:16:44, Log: Read Network Button pressed
+2021/11/18 16:16:49, Log: Opened Read_Network file browser
+2021/11/18 16:16:49, Log: The connections have been added to the city: Denver
+2021/11/18 16:16:49, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:16:49, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:16:49, Log: The connections have been added to the city: Aspen
+2021/11/18 16:16:49, Log: The connections have been added to the city: Vail
+2021/11/18 16:16:49, Log: KML button activated
+2021/11/18 16:20:02, Log: Open intro window.
+2021/11/18 16:20:05, Log: Read City Button pressed
+2021/11/18 16:20:10, Log: Opened Read_City file browser
+2021/11/18 16:20:10, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:20:10, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:20:11, Log: Excel File Parsing Complete
+2021/11/18 16:20:11, Log: Read Network Button was enabled
+2021/11/18 16:20:11, Log: Read Network Button pressed
+2021/11/18 16:20:17, Log: Opened Read_Network file browser
+2021/11/18 16:20:17, Log: The connections have been added to the city: Denver
+2021/11/18 16:20:17, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:20:17, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:20:17, Log: The connections have been added to the city: Aspen
+2021/11/18 16:20:17, Log: The connections have been added to the city: Vail
+2021/11/18 16:20:17, Log: KML button activated
+2021/11/18 16:20:30, Log: KML File generated.
+2021/11/18 16:23:02, Log: Open intro window.
+2021/11/18 16:23:05, Log: Read City Button pressed
+2021/11/18 16:23:11, Log: Opened Read_City file browser
+2021/11/18 16:23:11, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:23:11, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:23:12, Log: Excel File Parsing Complete
+2021/11/18 16:23:12, Log: Read Network Button was enabled
+2021/11/18 16:23:12, Log: Read Network Button pressed
+2021/11/18 16:23:18, Log: Opened Read_Network file browser
+2021/11/18 16:23:18, Log: The connections have been added to the city: Denver
+2021/11/18 16:23:18, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:23:18, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:23:18, Log: The connections have been added to the city: Aspen
+2021/11/18 16:23:18, Log: The connections have been added to the city: Vail
+2021/11/18 16:23:18, Log: KML button activated
+2021/11/18 16:23:33, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:25:27, Log: Open intro window.
+2021/11/18 16:25:31, Log: Read City Button pressed
+2021/11/18 16:25:43, Log: Opened Read_City file browser
+2021/11/18 16:25:43, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:25:43, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:25:44, Log: Excel File Parsing Complete
+2021/11/18 16:25:44, Log: Read Network Button was enabled
+2021/11/18 16:26:10, Log: Read Network Button pressed
+2021/11/18 16:26:14, Log: Opened Read_Network file browser
+2021/11/18 16:26:14, Log: The connections have been added to the city: Denver
+2021/11/18 16:26:14, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:26:14, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:26:14, Log: The connections have been added to the city: Aspen
+2021/11/18 16:26:14, Log: The connections have been added to the city: Vail
+2021/11/18 16:26:14, Log: KML button activated
+2021/11/18 16:26:20, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:27:53, Log: Open intro window.
+2021/11/18 16:27:56, Log: Read City Button pressed
+2021/11/18 16:28:01, Log: Opened Read_City file browser
+2021/11/18 16:28:01, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:28:01, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:28:02, Log: Excel File Parsing Complete
+2021/11/18 16:28:02, Log: Read Network Button was enabled
+2021/11/18 16:28:02, Log: Read Network Button pressed
+2021/11/18 16:28:06, Log: Opened Read_Network file browser
+2021/11/18 16:28:06, Log: The connections have been added to the city: Denver
+2021/11/18 16:28:06, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:28:06, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:28:06, Log: The connections have been added to the city: Aspen
+2021/11/18 16:28:06, Log: The connections have been added to the city: Vail
+2021/11/18 16:28:06, Log: KML button activated
+2021/11/18 16:28:10, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:28:15, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:28:27, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:28:33, Log: ERROR: You didn't select a city!
+2021/11/18 16:28:53, Log: Open intro window.
+2021/11/18 16:28:56, Log: Read City Button pressed
+2021/11/18 16:29:02, Log: Opened Read_City file browser
+2021/11/18 16:29:02, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:29:02, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:29:03, Log: Excel File Parsing Complete
+2021/11/18 16:29:03, Log: Read Network Button was enabled
+2021/11/18 16:29:03, Log: Read Network Button pressed
+2021/11/18 16:29:09, Log: Opened Read_Network file browser
+2021/11/18 16:29:09, Log: The connections have been added to the city: Denver
+2021/11/18 16:29:09, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:29:09, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:29:09, Log: The connections have been added to the city: Aspen
+2021/11/18 16:29:09, Log: The connections have been added to the city: Vail
+2021/11/18 16:29:09, Log: KML button activated
+2021/11/18 16:29:14, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:29:19, Log: ERROR: You didn't select a city!
+2021/11/18 16:29:21, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:29:28, Log: ERROR: You didn't select a city!
+2021/11/18 16:29:30, Log: ERROR: Error in generateKML: filename is empty
+2021/11/18 16:31:03, Log: Open intro window.
+2021/11/18 16:31:06, Log: Read City Button pressed
+2021/11/18 16:31:11, Log: Opened Read_City file browser
+2021/11/18 16:31:11, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:31:11, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:31:12, Log: Excel File Parsing Complete
+2021/11/18 16:31:12, Log: Read Network Button was enabled
+2021/11/18 16:31:13, Log: Read Network Button pressed
+2021/11/18 16:31:18, Log: Opened Read_Network file browser
+2021/11/18 16:31:18, Log: The connections have been added to the city: Denver
+2021/11/18 16:31:18, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:31:18, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:31:18, Log: The connections have been added to the city: Aspen
+2021/11/18 16:31:18, Log: The connections have been added to the city: Vail
+2021/11/18 16:31:18, Log: KML button activated
+2021/11/18 16:31:25, Log: ERROR: ERROR: You didn't select a city!
+2021/11/18 16:31:28, Log: ERROR: ERROR: filename is empty
+2021/11/18 16:32:59, Log: Open intro window.
+2021/11/18 16:33:20, Log: Open intro window.
+2021/11/18 16:33:26, Log: Read City Button pressed
+2021/11/18 16:33:34, Log: Opened Read_City file browser
+2021/11/18 16:33:34, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:33:34, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:33:35, Log: Excel File Parsing Complete
+2021/11/18 16:33:35, Log: Read Network Button was enabled
+2021/11/18 16:33:35, Log: Read Network Button pressed
+2021/11/18 16:33:39, Log: Opened Read_Network file browser
+2021/11/18 16:33:39, Log: The connections have been added to the city: Denver
+2021/11/18 16:33:39, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:33:39, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:33:39, Log: The connections have been added to the city: Aspen
+2021/11/18 16:33:39, Log: The connections have been added to the city: Vail
+2021/11/18 16:33:39, Log: KML button activated
+2021/11/18 16:33:51, Log: KML File generated.
+2021/11/18 16:48:57, Log: Open intro window.
+2021/11/18 16:49:02, Log: Read City Button pressed
+2021/11/18 16:49:07, Log: Opened Read_City file browser
+2021/11/18 16:49:07, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:49:07, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:49:08, Log: Excel File Parsing Complete
+2021/11/18 16:49:08, Log: Read Network Button was enabled
+2021/11/18 16:49:09, Log: Read Network Button pressed
+2021/11/18 16:49:13, Log: Opened Read_Network file browser
+2021/11/18 16:49:13, Log: The connections have been added to the city: Denver
+2021/11/18 16:49:13, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:49:13, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:49:13, Log: The connections have been added to the city: Aspen
+2021/11/18 16:49:13, Log: The connections have been added to the city: Vail
+2021/11/18 16:49:13, Log: KML button activated
+2021/11/18 16:51:16, Log: Open intro window.
+2021/11/18 16:51:20, Log: Read City Button pressed
+2021/11/18 16:51:24, Log: Opened Read_City file browser
+2021/11/18 16:51:24, Log: Selected File Path: C:\Users\C23Alexander.Bach\Desktop\CS350 Test Files\colorado_cities.xlsx
+2021/11/18 16:51:24, Log: Select File Name: colorado_cities.xlsx
+2021/11/18 16:51:25, Log: Excel File Parsing Complete
+2021/11/18 16:51:25, Log: Read Network Button was enabled
+2021/11/18 16:51:26, Log: Read Network Button pressed
+2021/11/18 16:51:30, Log: Opened Read_Network file browser
+2021/11/18 16:51:30, Log: The connections have been added to the city: Denver
+2021/11/18 16:51:30, Log: The connections have been added to the city: Colorado Springs
+2021/11/18 16:51:30, Log: The connections have been added to the city: Pueblo
+2021/11/18 16:51:30, Log: The connections have been added to the city: Aspen
+2021/11/18 16:51:30, Log: The connections have been added to the city: Vail
+2021/11/18 16:51:30, Log: KML button activated
+2021/11/18 16:52:04, Log: Open intro window.
+2021/11/18 16:52:07, Log: Read City Button pressed
+2021/11/18 16:52:10, Log: Opened Read_City file browser
+2021/11/20 17:13:56, Log: Open intro window.
+2021/11/20 17:16:14, Log: Opened Read_City file browser
+2021/11/20 17:20:12, Log: Opened Read_City file browser
+2021/11/20 18:04:28, Log: Opened Read_Network file browser
+2021/11/20 18:04:28, Log: Excel File Parsing Complete
+2021/11/20 18:05:01, Log: Opened Read_Network file browser
+2021/11/20 18:05:01, Log: Excel File Parsing Complete
+2021/11/20 18:06:35, Log: Opened Read_Network file browser
+2021/11/20 18:06:35, Log: Excel File Parsing Complete
+2021/11/20 18:06:49, Log: Opened Read_Network file browser
+2021/11/20 18:06:49, Log: Excel File Parsing Complete
+2021/11/20 18:09:09, Log: Open intro window.
+2021/11/20 18:09:11, Log: Read City Button pressed
+2021/11/20 18:09:21, Log: Opened Read_City file browser
+2021/11/20 18:09:21, Log: Selected File Path: C:\Users\C23Quinn.Henry\Downloads\colorado_cities.xlsx
+2021/11/20 18:09:21, Log: Select File Name: colorado_cities.xlsx
+2021/11/20 18:09:22, Log: Excel File Parsing Complete
+2021/11/20 18:09:22, Log: Read Network Button was enabled
+2021/11/20 18:09:23, Log: Read Network Button pressed
+2021/11/20 18:09:30, Log: Opened Read_Network file browser
+2021/11/20 18:09:30, Log: The connections have been added to the city: Denver
+2021/11/20 18:09:30, Log: The connections have been added to the city: Colorado Springs
+2021/11/20 18:09:30, Log: The connections have been added to the city: Pueblo
+2021/11/20 18:09:30, Log: The connections have been added to the city: Aspen
+2021/11/20 18:09:30, Log: The connections have been added to the city: Vail
+2021/11/20 18:09:30, Log: KML button activated
+2021/11/20 18:09:46, Log: KML File generated.
+2021/11/20 18:17:05, Log: Opened Read_City file browser
+2021/11/20 18:17:05, Log: Selected File Path: C:\Users\C23Quinn.Henry\Downloads\OneDrive_1_11-20-2021\colorado_cities.xlsx
+2021/11/20 18:17:05, Log: Select File Name: colorado_cities.xlsx
+2021/11/20 18:17:05, Log: Excel File Parsing Complete
+2021/11/20 18:17:40, Log: Opened Read_City file browser
+2021/11/20 18:17:40, Log: Selected File Path: C:\Users\C23Quinn.Henry\Downloads\OneDrive_1_11-20-2021\colorado_cities.xlsx
+2021/11/20 18:17:40, Log: Select File Name: colorado_cities.xlsx
+2021/11/20 18:17:40, Log: Excel File Parsing Complete
